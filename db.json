@@ -7,14 +7,68 @@
     }
   },
   "output_schema": {
-    "datetime": "2023-04-17T11:11:53.414101",
-    "fin_waiting": 1,
-    "fin_success": 0,
-    "fin_success_partial": 0,
-    "fin_failed": 0,
-    "non_fin_waiting": 0,
-    "non_fin_success": 0,
-    "non_fin_success_partial": 0,
-    "non_fin_failed": 0
+     "data": [
+   {
+      "id": 1,
+      "month": "January",
+      "monthlyTransaction": 1000,
+      "createdAt": "2016-01-01 00:00:00"
+  },{
+      "id": 2,
+      "month": "February",
+      "monthlyTransaction": 2000,
+      "createdAt": "2016-02-01 00:00:00"
+  },{
+      "id": 3,
+      "month": "March",
+      "monthlyTransaction": 3000,
+      "createdAt": "2016-03-01 00:00:00"
+  },{
+      "id": 4,
+      "month": "April",
+      "monthlyTransaction": 4000,
+      "createdAt": "2016-04-01 00:00:00"
+  },{
+      "id": 5,
+      "month": "May",
+      "monthlyTransaction": 5000,
+      "createdAt": "2016-05-01 00:00:00"
+  },{
+      "id": 6,
+      "month": "June",
+      "monthlyTransaction": 6000,
+      "createdAt": "2016-06-01 00:00:00"
+  },{
+      "id": 7,
+      "month": "July",
+      "monthlyTransaction": 7000,
+      "createdAt": "2016-01-01 00:00:00"
+  },{
+      "id": 8,
+      "month": "August",
+      "monthlyTransaction": 8000,
+      "createdAt": "2016-02-01 00:00:00"
+  },{
+      "id": 9,
+      "month": "September",
+      "monthlyTransaction": 9000,
+      "createdAt": "2016-03-01 00:00:00"
+  },{
+      "id": 10,
+      "month": "October",
+      "monthlyTransaction": 10000,
+      "createdAt": "2016-04-01 00:00:00"
+  },{
+      "id": 11,
+      "month": "November",
+      "monthlyTransaction": 11000,
+      "createdAt": "2016-05-01 00:00:00"
+  },{
+      "id": 12,
+      "month": "December",
+      "monthlyTransaction": 12000,
+      "createdAt": "2016-06-01 00:00:00"
+  }
+  ],
   }
 }
